@@ -2,7 +2,9 @@
 
 Collection of links, docs, ideas for designing and building awesome homes without much money.
 
-What is the cheapest *to-code* dwelling you can build in the United States? Are there absurd restrictions in place that make it difficult to have a dwelling in between a tent and a $100k house?
+* What is the cheapest *to-code* dwelling you can build in the United States?
+* Are there absurd restrictions in place that make it difficult to have a dwelling in between a tent and a $100k house?
+* What technological changes can reduce costs if we ok living with those changes?
 
 ## Similar Projects
 
